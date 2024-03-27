@@ -6,7 +6,6 @@
 
 <img src="https://user-images.githubusercontent.com/36035954/201547416-346d0163-f3dc-4fe2-8bee-0b6c6a60da1c.png" width="600">
 
-[🔗 espaciovitale.com](https://espaciovitale.com)
 
 <img src="https://user-images.githubusercontent.com/36035954/201547752-678d1c7b-e2a9-42b4-829e-e7073521bcac.png" width="600">
 
