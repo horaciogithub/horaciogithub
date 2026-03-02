@@ -2,16 +2,20 @@
 - 💼 I am a FrontEnd developet but I´ve worked as a FullStack
 - 👀 You can see my projects 👇
 
+**Web apps**
+
 [🔗 clinicaphysioelite.com](https://clinicaphysioelite.com)
 
-<img src="https://user-images.githubusercontent.com/36035954/201547416-346d0163-f3dc-4fe2-8bee-0b6c6a60da1c.png" width="600">
+<img width="1834" height="935" alt="image" src="https://github.com/user-attachments/assets/32a0c6a6-d1f6-4fd7-968f-76f634d3f2fc" />
 
+----
 
-<img src="https://user-images.githubusercontent.com/36035954/201547752-678d1c7b-e2a9-42b4-829e-e7073521bcac.png" width="600">
+**Mobile Apps**
 
-[🔗 my portfolio](https://rb.gy/wkzbft)
+[🔗 TidyBox QR Inventario IA](https://play.google.com/store/apps/details?id=com.horacioram.TidyBox)
 
-<img src="https://user-images.githubusercontent.com/36035954/201547667-19fe9866-2d5c-45a7-90eb-caab5b485762.png" width="600">
+<img width="1834" height="935" alt="image" src="https://github.com/user-attachments/assets/9184af36-4a3f-4437-ac4e-0e758defff2d" />
+
 
 <!---
 horaciogithub/horaciogithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
